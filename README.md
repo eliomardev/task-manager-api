@@ -62,16 +62,16 @@ Um sistema completo de gerenciamento de tarefas desenvolvido com Python (FastAPI
 
 ## 📁 **Estrutura do Projeto**
 
-task-manager-fullstack/
-├── backend/ # API Python FastAPI
-│ ├── main.py # Endpoints da API
-│ ├── database.py # Conexão com PostgreSQL
-│ ├── requirements.txt # Dependências Python
-│ └── Dockerfile # Containerização
-├── frontend/ # Interface web
-│ ├── index.html # Estrutura HTML
-│ ├── style.css # Estilos CSS
-│ ├── script.js # Lógica JavaScript
-│ └── assets/ # Imagens/ícones
-├── docker-compose.yml # Orquestração Docker
-└── README.md # Esta documentação
+task-manager-fullstack/ <br>
+├── backend/ # API Python FastAPI <br>
+│ ├── main.py # Endpoints da API<br>
+│ ├── database.py # Conexão com PostgreSQL<br>
+│ ├── requirements.txt # Dependências Python<br>
+│ └── Dockerfile # Containerização<br>
+├── frontend/ # Interface web<br>
+│ ├── index.html # Estrutura HTML<br>
+│ ├── style.css # Estilos CSS<br>
+│ ├── script.js # Lógica JavaScript<br>
+│ └── assets/ # Imagens/ícones<br>
+├── docker-compose.yml # Orquestração Docker<br>
+└── README.md # Esta documentação<br>
